@@ -1,0 +1,38 @@
+
+.intro-header {
+	background: url("../img/intro-bg.jpg");
+	background-size: cover;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: white;
+	text-align: center;
+}
+
+.intro-message {
+	padding-top: 20%;
+	padding-bottom: 20%;
+	position: relative;
+}
+
+.intro-divider {
+	width: 300px;
+
+}
+
+.intro-social-buttons {
+
+}
+
+.content-section-a{
+	padding-top: 50px;
+	background: #f8f8f8;
+}
+
+.section-heading {
+	margin-top: 35px;
+}
+
+.paragraph {
+	font-size: 18px;
+	font-weight: 400;
+}
